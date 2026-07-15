@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboard – Sales & Profit Analysis
+# 📊 AI-Powered Sales Intelligence & Profit Optimization Analysis
 
 This dashboard provides a detailed view of business performance, including:
 
