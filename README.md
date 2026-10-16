@@ -1,4 +1,4 @@
-# 📊 AI-Powered Sales Intelligence & Profit Optimization Analysis1
+# 📊 AI-Powered Sales Intelligence & Profit Optimization Analysis
 
 This dashboard provides a detailed view of business performance, including:
 
